@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'My First ngApp';
   version = '1.0.0';
+  name = 'Azhar';
 }
